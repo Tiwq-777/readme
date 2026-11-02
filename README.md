@@ -15,5 +15,6 @@
 <h1>Learning Markom format</h1>
 ```
 
-| No | Name | Emal |
+| No | Name | Email |
+|----| -----| ------|
 | 1 | John Doe | john@gmail.com |
